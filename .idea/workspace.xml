@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fdc206-1911-41e5-b57a-34e96f6cb1ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/js/week2.js" afterPath="$PROJECT_DIR$/GoToTrainingWeek2/js/week2.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/goToTrainingWeek2.html" afterPath="$PROJECT_DIR$/GoToTrainingWeek2/goToTrainingWeek2.html" />
     </list>
     <ignored path="Jones_Ryan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,24 +23,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="goToTrainingWeek2.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/goToTrainingWeek2.html">
+      <file leaf-file-name="gotoWeek3.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.1826484">
+              <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="week2.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/js/week2.js">
+      <file leaf-file-name="GoToWeek3.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/GoToWeek3.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8464912">
-              <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
-              <folding>
-                <element signature="n#!!doc" expanded="true" />
-              </folding>
+            <state vertical-scroll-proportion="-3.125">
+              <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -50,8 +48,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Html5" />
         <option value="JavaScript File" />
+        <option value="Ryans Js Template" />
+        <option value="Html5" />
       </list>
     </option>
   </component>
@@ -62,8 +61,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/GoToTrainingWeek2/js/Week2.js" />
-        <option value="$PROJECT_DIR$/GoToTrainingWeek2/goToTrainingWeek2.html" />
         <option value="$PROJECT_DIR$/GoToTrainingWeek2/js/week2.js" />
+        <option value="$PROJECT_DIR$/GoToTrainingWeek2/goToTrainingWeek2.html" />
+        <option value="$PROJECT_DIR$/GoToTrainingWeek3/GoToWeek3.html" />
+        <option value="$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js" />
       </list>
     </option>
   </component>
@@ -133,7 +134,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GoToTrainingWeek2" />
+              <option name="myItemId" value="GoToTrainingWeek3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -147,7 +148,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="GoToTrainingWeek2" />
+              <option name="myItemId" value="GoToTrainingWeek3" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -199,6 +200,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="84fdc206-1911-41e5-b57a-34e96f6cb1ce" name="Default" comment="" />
@@ -231,6 +235,14 @@
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -241,8 +253,8 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/goToTrainingWeek2.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-6.25">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.22727273">
+          <caret line="10" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
@@ -254,6 +266,22 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/GoToWeek3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.125">
+          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.1826484">
+          <caret line="8" column="40" selection-start-line="8" selection-start-column="40" selection-end-line="8" selection-end-column="40" />
+          <folding />
         </state>
       </provider>
     </entry>
