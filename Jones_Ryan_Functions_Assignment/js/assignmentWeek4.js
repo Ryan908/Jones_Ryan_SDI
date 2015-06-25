@@ -13,49 +13,51 @@ Jones_Ryan_Functions_Assignment
  var vip= prompt("How many reservations do you have for vip?");
 
  //Validating number of vip guests.
- while(vip==="" || isNaN(vip))
+ while(vip==="" || isNaN(vip)) {
 
- //Prompting user using if else
- if(vip===""){
+     //Prompting user using if else
+     if (vip === ""){
 
-     vip=prompt("Please enter the amount of guests in vip.\n Do not leave blank.");
+         vip = prompt("Please enter the amount of guests in vip.\n Do not leave blank.");
 
- } else{
+     } else {
 
-     vip=prompt("Please give only numerical responses.");
+         vip = prompt("Please give only numerical responses.");
+     }
  }
 
  var other= prompt("How many other attendees will there be?");
 
  //Validating number of other guests.
- while(other==="" || isNaN(other))
+ while(other==="" || isNaN(other)) {
 
      //Prompting user using if else
-     if(other===""){
+     if (other === ""){
 
-         other=prompt("Please enter the amount of other guests that will be attending.\n Do not leave blank.");
+         other = prompt("Please enter the amount of other guests that will be attending.\n Do not leave blank.");
 
-     } else{
+     } else {
 
-         other=prompt("Please give only numerical responses.");
+         other = prompt("Please give only numerical responses.");
      }
+ }
 
 
  var staff= prompt("How many staff members will be present?");
 
  //Validating number of staff working.
- while(staff==="" || isNaN(staff))
+ while(staff==="" || isNaN(staff)) {
 
      //Prompting user using if else
-     if(staff===""){
+     if (staff === "") {
 
-         staff=prompt("Please enter the amount of staff that will be needed.\n Do not leave blank.");
+         staff = prompt("Please enter the amount of staff that will be needed.\n Do not leave blank.");
 
-     } else{
+     } else {
 
-         staff=prompt("Please give only numerical responses.");
+         staff = prompt("Please give only numerical responses.");
      }
-
+ }
 
 //Function call including 3 arguments
 
