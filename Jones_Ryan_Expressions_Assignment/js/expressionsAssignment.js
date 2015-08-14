@@ -28,4 +28,10 @@ var increaseWeightLoss = [weightLossTime,2];
 
 var newTotal = increaseWeightLoss[0] * increaseWeightLoss[1];
 console.log(newTotal);
-alert("If you lose 2 lbs. per" + weightLossTime+ " days you will lose a total of " +newTotal+ " lbs.!");
+alert("If you lose 2lbs. per " + weightLossTime+ " days you will lose a total of " +newTotal+ "lbs.!");
+
+var weight = weight1;
+weight -= newTotal;
+console.log(weight);
+alert("If you lose " +newTotal+ " your total weight will be" +weight+"lbs.\n Wouldn't that be amazing!");
+
