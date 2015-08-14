@@ -8,6 +8,19 @@
 
 //prompt user asking current weight + weight for the previous two months
 
-var weight1 = prompt("How much weight did you lose for the month of August?");
-var weight2 = prompt("How much weight did you lose in July?");
-var weight3 = prompt("How much weight did you lose June?");
+var weight1 = prompt("How much do you currently weigh?");
+var weight2 = prompt("How much weight would you like to lose?");
+
+
+var total = weight1 - weight2;
+console.log(total);
+alert("Your desired weight is "+ total + "lbs.")
+
+var weightLossTime = prompt("How many days will it take you to lose"+ total + "lbs.?");
+
+var dailyWeightLoss = weight2 / weightLossTime;
+console.log(dailyWeightLoss);
+alert("Your daily weight loss will be "+ dailyWeightLoss + " lbs. per day.");
+
+
+
