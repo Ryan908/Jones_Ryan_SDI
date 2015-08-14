@@ -14,7 +14,7 @@ var weight2 = prompt("How much weight would you like to lose?");
 
 var total = weight1 - weight2;
 console.log(total);
-alert("Your desired weight is "+ total + "lbs.")
+alert("Your desired weight is "+ total + "lbs.");
 
 var weightLossTime = prompt("How many days will it take you to lose"+ total + "lbs.?");
 
@@ -22,5 +22,10 @@ var dailyWeightLoss = weight2 / weightLossTime;
 console.log(dailyWeightLoss);
 alert("Your daily weight loss will be "+ dailyWeightLoss + " lbs. per day.");
 
+//Expressing values with an Array
 
+var increaseWeightLoss = [weightLossTime,2];
 
+var newTotal = increaseWeightLoss[0] * increaseWeightLoss[1];
+console.log(newTotal);
+alert("If you lose 2 lbs. per" + weightLossTime+ " days you will lose a total of " +newTotal+ " lbs.!");
