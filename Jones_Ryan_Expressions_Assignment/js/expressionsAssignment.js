@@ -30,8 +30,13 @@ var newTotal = increaseWeightLoss[0] * increaseWeightLoss[1];
 console.log(newTotal);
 alert("If you lose 2lbs. per " + weightLossTime+ " days you will lose a total of " +newTotal+ "lbs.!");
 
+//Apply logic using assignment operators
 var weight = weight1;
 weight -= newTotal;
 console.log(weight);
 alert("If you lose " +newTotal+ " your total weight will be" +weight+"lbs.\n Wouldn't that be amazing!");
 
+var weightIncrease = weightLossTime;
+weightIncrease *= 2;
+console.log(weightIncrease);
+alert("If you gained 2lbs. per day your weight would be " +weightIncrease+ "lbs. heavier.\n That would suck! :(");
