@@ -39,4 +39,12 @@ if(maxGuest >= pizzaParty && maxPies >= pizzaPies){
     console.log("You have an acceptable amount of guests and food for the party.");
 }else{
     console.log("You need to review your guest list and food.");
-} 
+}
+
+var beverages = prompt("Your guest will be thirsty.. \n How many would you wish to order for them?");
+
+if(beverages === pizzaParty){
+    console.log("You have enough drinks for everyone!")
+}else{
+    console.log("You need to order more drinks...")
+}
