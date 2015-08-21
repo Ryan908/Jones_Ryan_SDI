@@ -26,5 +26,6 @@ if(pizzaParty < pizzaPies){
      console.log("That should be enough to satisfy one person.");
  }
 
+(notEnough >= 2) ? console.log("That's a good amount of slices per guest.") : console.log("You should make sure each guest gets another slice.");
 
 
