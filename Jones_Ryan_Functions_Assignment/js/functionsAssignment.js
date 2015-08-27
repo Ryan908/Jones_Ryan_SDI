@@ -4,8 +4,8 @@
 
 
 //creating variables and prompting user to make a decision between Florida lottery numbers or Powerball numbers.
-//var lotteryNum = prompt("Would you like to use the numbers from the Florida lottery or for the Powerball lottery?");
-
+var lotteryNum = prompt("Would you like to use the numbers from the Florida lottery or for the Powerball lottery?");
+var lotteryRandom
 
 //This function is validating the type of lottery numbers the user wishes to use.
 // TODO: Create validation function
@@ -33,13 +33,13 @@ function floridaLottery(){
 
     for (var i = 0; i < 6; i++) {
 
-        console.log(i);
+
 
         floridaLotteryNum[i] = Math.random() * (53 - 1) + 1;
         floridaLotteryNum[i] = Math.round(floridaLotteryNum[i]);
 
     }
-    console.log(floridaLotteryNum);
+    return floridaLotteryNum;
 
 
 }
@@ -47,5 +47,6 @@ function floridaLottery(){
 
 //This section is calling my functions.
 // TODO: Create function calls
-//lotteryNumValidation(lotteryNum);
-floridaLottery();
+lotteryNumValidation(lotteryNum);
+lotteryRandom = floridaLottery();
+console.log("Your numbers will be " + lotteryRandom+".")
