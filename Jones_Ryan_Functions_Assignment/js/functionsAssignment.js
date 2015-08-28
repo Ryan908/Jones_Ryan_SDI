@@ -4,42 +4,49 @@
 
 
 //creating variables and prompting user to make a decision between Florida lottery numbers or Powerball numbers.
-var lotteryNum = prompt("Would you like to use the numbers from the Florida lottery or for the Powerball lottery?");
-var lotteryRandom
+var lotteryNum = prompt("If you wish to use Florida lottery numbers enter florida?\n If you want the power ball enter powerball.");
+var lotteryRandom;
+var lotteryRandom2;
 
 //This function is validating the type of lottery numbers the user wishes to use.
 // TODO: Create validation function
-function lotteryNumValidation(fLotteryNum) {
+function lotteryNumValidation(lotteryNum) {
 
 
 
 
-    while (fLotteryNum === ""){
+    while (lotteryNum === ""){
 
-        fLotteryNum = prompt("Please do not leave blank.\n Which numbers do you wish to use?");
+        lotteryNum = prompt("Please do not leave blank.\n Which numbers do you wish to use?");
 
+    } if(lotteryNum === "florida"){
+        console.log("Great let's play the "+lotteryNum+".");
+
+    }else{
+        console.log("Awesome let's play the "+lotteryNum+".");
     }
-    console.log(fLotteryNum+", great choice!")
 
-    return fLotteryNum;
+
+    return lotteryNum;
 
 }
 
 
 //function to generate random numbers
-function floridaLottery(){
+function randomLottery(min,max,num){
 
-    var floridaLotteryNum = [];
+    //Created two math objects to generate random numbers.
+    var randomLotteryNum = [];
 
-    for (var i = 0; i < 6; i++) {
+    for (var i = 0; i < num; i++) {
 
 
 
-        floridaLotteryNum[i] = Math.random() * (53 - 1) + 1;
-        floridaLotteryNum[i] = Math.round(floridaLotteryNum[i]);
+        randomLotteryNum[i] = Math.random() * (max - min) + min;
+        randomLotteryNum[i] = Math.round(randomLotteryNum[i]);
 
     }
-    return floridaLotteryNum;
+    return randomLotteryNum;
 
 
 }
@@ -48,5 +55,11 @@ function floridaLottery(){
 //This section is calling my functions.
 // TODO: Create function calls
 lotteryNumValidation(lotteryNum);
-lotteryRandom = floridaLottery();
-console.log("Your numbers will be " + lotteryRandom+".")
+lotteryRandom = randomLottery(1,53,6);
+console.log("Your florida lottery numbers are: " + lotteryRandom+".");
+
+
+lotteryRandom2 = randomLottery(1,59,5);
+console.log("Your power ball lottery numbers are: "+lotteryRandom2+".");
+lotteryRandom2 = randomLottery(1,35,1);
+console.log("Your PB is "+lotteryRandom2+".");
