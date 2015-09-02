@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fdc206-1911-41e5-b57a-34e96f6cb1ce" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/assignmentWeek4.js" afterPath="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/assignmentWeek4.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/goToTrainingWeek2.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GoToTrainingWeek2/js/week2.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GoToTrainingWeek3/GoToWeek3.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_Conditionals_Assignment/js/conditionalsAssignmentWk3.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_Expressions_Assignment/JonesRyanExpressionsAssignment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_Expressions_Assignment/js/expressionsAssignment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_Flowchart.pdf" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/assignmentWeek4.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/functionsAssignment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/assignmentWeek4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/functionsAssignment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/js/week1OutputAssignment.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones_Ryan_ProblemSolving.zip/Jones_Ryan_ProblemSolving.zip.docx" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Jones_Ryan_SDI.iws" />
@@ -23,34 +36,13 @@
     <favorites_list name="Jones_Ryan_SDI" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="assignmentWeek4.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/assignmentWeek4.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.03267974">
-              <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="assignmentWeek4.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/assignmentWeek4.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-6.25">
-              <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="Ryans Js Template" />
+        <option value="JavaScript File" />
         <option value="Html5" />
       </list>
     </option>
@@ -68,8 +60,22 @@
         <option value="$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js" />
         <option value="$PROJECT_DIR$/ScreencastWeek4/ScreencastWeek4.html" />
         <option value="$PROJECT_DIR$/ScreencastWeek4/js/ScreencastWeek4.js" />
-        <option value="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/assignmentWeek4.html" />
         <option value="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/assignmentWeek4.js" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/assignmentWeek4.html" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/js.js" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/week2.js" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/week1outputassignment.js" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/Jones_Ryan_Output_Assignment.html" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/js/Jones Ryan Output Assignment.html" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/Jones Ryan Output Assignment.html" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/js/week1OutputAssignment.js" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Expressions_Assignment/expressionsAssignment.js" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Expressions_Assignment/JonesRyanExpressionsAssignment.html" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Expressions_Assignment/js/expressionsAssignment.js" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Conditionals_Assignment/conditionalsAssignmentWk3.html" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Conditionals_Assignment/js/conditionalsAssignmentWk3.js" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/functionsAssignment.html" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/functionsAssignment.js" />
       </list>
     </option>
   </component>
@@ -81,8 +87,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="19" />
-    <option name="y" value="195" />
+    <option name="x" value="8" />
+    <option name="y" value="207" />
     <option name="width" value="1400" />
     <option name="height" value="556" />
   </component>
@@ -109,8 +115,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -119,56 +123,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_Functions_Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_Functions_Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="js" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -201,6 +166,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -218,23 +189,24 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="19" y="195" width="1400" height="556" extended-state="0" />
-    <editor active="true" />
+    <frame x="8" y="207" width="1400" height="556" extended-state="0" />
+    <editor active="false" />
     <layout>
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -256,41 +228,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/goToTrainingWeek2.html">
+    <entry file="file://$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/Jones Ryan Output Assignment.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.22727273">
-          <caret line="10" column="7" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="7" />
+        <state vertical-scroll-proportion="0.3448276">
+          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek2/js/week2.js">
+    <entry file="file://$PROJECT_DIR$/Jones_Ryan_Output_Assignment.js/js/week1OutputAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8464912">
-          <caret line="45" column="50" selection-start-line="45" selection-start-column="50" selection-end-line="45" selection-end-column="50" />
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/js/gotoWeek3.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.6597222">
-          <caret line="19" column="6" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+        <state vertical-scroll-proportion="0.3267974">
+          <caret line="10" column="25" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/GoToTrainingWeek3/GoToWeek3.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.1724138">
-          <caret line="5" column="34" selection-start-line="5" selection-start-column="34" selection-end-line="5" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/assignmentWeek4.html">
+    <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/functionsAssignment.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -298,10 +252,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/assignmentWeek4.js">
+    <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/Jones_Ryan_Functions_Assignment/functionsAssignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.03267974">
-          <caret line="23" column="0" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        <state vertical-scroll-proportion="1.633987">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
