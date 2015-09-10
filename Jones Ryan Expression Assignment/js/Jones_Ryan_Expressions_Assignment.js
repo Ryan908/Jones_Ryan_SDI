@@ -30,8 +30,14 @@ console.log(cupcakes);
 //Multiplied the number of students to get the total number of cupcakes needed.
 students *= cupcakes;
 
+//Alert user confirming total number of cakes they will need for their students.
+alert("You will need "+students+" cupcakes for your entire class.")
+
 //Printed the total number of cupcakes to the console
 console.log(students);
+
+//Setting variable total cakes into place for final calculation.
+totalcakes = students * cupcakes;
 
 
 
