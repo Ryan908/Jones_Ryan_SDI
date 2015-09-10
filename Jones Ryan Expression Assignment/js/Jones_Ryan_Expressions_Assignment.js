@@ -31,13 +31,23 @@ console.log(cupcakes);
 students *= cupcakes;
 
 //Alert user confirming total number of cakes they will need for their students.
-alert("You will need "+students+" cupcakes for your entire class.")
+alert("You will need "+students+" cupcakes for your entire class.");
 
 //Printed the total number of cupcakes to the console
 console.log(students);
 
-//Setting variable total cakes into place for final calculation.
-totalcakes = students * cupcakes;
+
+//Created new variable to indicate how many cupcakes the user will want to be frosted, and how many will have sprinkles.
+var frosted = prompt("Some cupcakes will come with sprinkles and some will be frosted. \n \nHow many cakes do you wish to have frosted?");
+
+//Subtracted the total number of cakes from the amount of cakes that would be frosted to determine how many cakes will have sprinkles.
+ students -= frosted;
+
+//Alert user as to how many cupcakes he will have with sprinkles
+alert("You will have "+students+" cupcakes that will have sprinkles");
+
+//Print number of cupcakes with sprinkles to the console.
+console.log(students);
 
 
 
