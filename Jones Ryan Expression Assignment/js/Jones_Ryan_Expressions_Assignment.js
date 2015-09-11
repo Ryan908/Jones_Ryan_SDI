@@ -44,10 +44,20 @@ var frosted = prompt("Some cupcakes will come with sprinkles and some will be fr
  students -= frosted;
 
 //Alert user as to how many cupcakes he will have with sprinkles
-alert("You will have "+students+" cupcakes that will have sprinkles");
+alert("You will have "+students+" cupcakes that will have sprinkles!");
 
 //Print number of cupcakes with sprinkles to the console.
 console.log(students);
+
+var totals = [students,frosted];
+
+console.log(totals[1]);
+
+
+/* I entered 50 students in the class and gave each student 2 cupcakes. This gave me a total of 100 cupcakes need for the entire class.
+Next I entered 40 cupcakes that I wanted frosted which gave me a total of 60 cupcakes that would have sprinkles. I tried this calculation again with
+20 frosted cupcakes and the result was 80 cupcakes with sprinkles.
+ */
 
 
 
