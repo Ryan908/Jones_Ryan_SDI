@@ -31,3 +31,9 @@ if (captains >= captainMax && captains < tourGuestMax ){
     console.log("But you need more captains.");
 }
 
+
+//validated prompt
+if (captains === "") {
+    console.log("Please enter how many captains you will need.");
+    alert("Please enter how many captains you will need.");
+}
