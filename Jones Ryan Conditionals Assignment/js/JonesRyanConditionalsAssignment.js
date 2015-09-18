@@ -23,5 +23,11 @@ if (guests === ""){
 
 var captains = prompt("You cannot have a tour group without designating a captain. \n How many captains will you have in your group?");
 
+//calculated booleans using logical operators
+if (captains >= captainMax && captains < tourGuestMax ){
+    console.log("Ok now we may start the tour.")
 
+}else {
+    console.log("But you need more captains.");
 }
+
