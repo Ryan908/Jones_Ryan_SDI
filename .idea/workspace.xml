@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="84fdc206-1911-41e5-b57a-34e96f6cb1ce" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones Ryan Conditionals Assignment/JonesRyanConditionalsAssignment.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Jones Ryan Conditionals Assignment/js/JonesRyanConditionalsAssignment.js" afterPath="" />
       <change type="DELETED" beforePath="$PROJECT_DIR$/Jones Ryan Expression Assignment/js/Jones_Ryan_Expressions_Assignment.js" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Jones Ryan Conditionals Assignment/js/JonesRyanConditionalsAssignment.js" afterPath="$PROJECT_DIR$/Jones Ryan Conditionals Assignment/js/JonesRyanConditionalsAssignment.js" />
     </list>
     <ignored path="Jones_Ryan_SDI.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -24,11 +25,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="JonesRyanConditionalsAssignment.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Jones Ryan Conditionals Assignment/js/JonesRyanConditionalsAssignment.js">
+      <file leaf-file-name="Jones Ryan Functions Assignment.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/Jones Ryan Functions Assignment.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="1.8954248">
-              <caret line="58" column="67" selection-start-line="58" selection-start-column="67" selection-end-line="58" selection-end-column="67" />
+            <state vertical-scroll-proportion="0.45751634">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
               </folding>
@@ -36,8 +37,8 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="JonesRyanConditionalsAssignment.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Jones Ryan Conditionals Assignment/JonesRyanConditionalsAssignment.html">
+      <file leaf-file-name="Jones Ryan Function Assignment.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/Jones Ryan Function Assignment.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="-6.25">
               <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -90,6 +91,8 @@
         <option value="$PROJECT_DIR$/Jones Ryan Expression Assignment/js/Jones_Ryan_Expressions_Assignment.js" />
         <option value="$PROJECT_DIR$/Jones Ryan Conditionals Assignment/JonesRyanConditionalsAssignment.html" />
         <option value="$PROJECT_DIR$/Jones Ryan Conditionals Assignment/js/JonesRyanConditionalsAssignment.js" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/Jones Ryan Function Assignment.html" />
+        <option value="$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/Jones Ryan Functions Assignment.js" />
       </list>
     </option>
   </component>
@@ -101,8 +104,8 @@
     <order />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="30" />
-    <option name="y" value="156" />
+    <option name="x" value="10" />
+    <option name="y" value="207" />
     <option name="width" value="1400" />
     <option name="height" value="556" />
   </component>
@@ -157,7 +160,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jones Ryan Expression Assignment" />
+              <option name="myItemId" value="Jones_Ryan_Functions_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -171,21 +174,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Jones Ryan Conditionals Assignment" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones_Ryan_SDI" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Jones Ryan Conditionals Assignment" />
+              <option name="myItemId" value="Jones_Ryan_Functions_Assignment" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -259,7 +248,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="30" y="156" width="1400" height="556" extended-state="0" />
+    <frame x="10" y="207" width="1400" height="556" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -298,7 +287,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Jones Ryan Conditionals Assignment/JonesRyanConditionalsAssignment.html">
+    <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/Jones Ryan Function Assignment.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-6.25">
           <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
@@ -306,10 +295,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Jones Ryan Conditionals Assignment/js/JonesRyanConditionalsAssignment.js">
+    <entry file="file://$PROJECT_DIR$/Jones_Ryan_Functions_Assignment/js/Jones Ryan Functions Assignment.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.8954248">
-          <caret line="58" column="67" selection-start-line="58" selection-start-column="67" selection-end-line="58" selection-end-column="67" />
+        <state vertical-scroll-proportion="0.45751634">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
           </folding>
