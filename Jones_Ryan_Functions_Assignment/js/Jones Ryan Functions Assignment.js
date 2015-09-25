@@ -62,12 +62,13 @@ while(e===""){
     e = prompt("Please enter the price of the shoe you are buying.");
 }
 
-//Created a function that will tally up the total spend on three additional items.
-function totalCost (c,d,e){
+//Created an anonymous function that will tally up the total spend on three additional items.
+var totalCost = function (c,d,e){
     totalCost = Number(c) + Number(d) + Number(e);
     console.log(totalCost);
     return totalCost;
-}
+};
 
-//Calling function
+//Calling function with arguments
 totalCost(c,d,e);
+
