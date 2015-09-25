@@ -28,31 +28,46 @@ retailCalc(a,b);
 function retailCalc ( a,b ){
     retailCalc = a * b;
     console.log(retailCalc);
-    return retailCalc
+    return retailCalc;
 
 }
 
 //Prompting user to commit values to variables that will be used in second function.
-prompt("You should buy some other items to go with your new jeans. \n How about a new shirt, a jacket and a new pair of shoes");
+alert("You should buy some other items to go with your new jeans. \n How about a new shirt, a jacket and a new pair of shoes");
 
+//First variable
 var c= prompt("How much is your shirt?");
 
+//Validated prompt for c variable
 while(c===""){
     console.log("Please enter the price of your shirt.");
     c= prompt("Please enter the price of your shirt.");
 }
 
+//Second variable
 var d = prompt("How much is the jacket?");
 
+//Validated prompt for d variable.
 while(d=== ""){
     console.log("Please enter the price of the jacket.");
     d = prompt("Please enter the price of the jacket.");
 }
 
+//Third variable
 var e = prompt("How much are is the pair of shoes that you plan to buy?");
 
+//Validated prompt for e variable
 while(e===""){
     console.log("Please enter the price of the shoe you are buying.");
     e = prompt("Please enter the price of the shoe you are buying.");
 }
 
+//Created a function that will tally up the total spend on three additional items.
+function totalCost (c,d,e){
+    totalCost = Number(c) + Number(d) + Number(e);
+    console.log(totalCost);
+    return totalCost;
+}
+
+//Calling function
+totalCost(c,d,e);
