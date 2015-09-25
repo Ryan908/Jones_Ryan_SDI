@@ -72,3 +72,9 @@ var totalCost = function (c,d,e){
 //Calling function with arguments
 totalCost(c,d,e);
 
+/*
+ I tested my calculating program by first entering a value of 29.50 as the cost of the jeans, and a value of 2 for the quantity
+ that I wished to buy. This resulted in the console logging a total of 59 as my total. Next I entered three values of 10.95,200.00, and
+ 60.00. This resulted with the console logging a total of 275.95 (which in this case would reflect $275.95). I checked that all user prompts were
+ validated by submitting empty values to confirm that each loop was working.
+ */
